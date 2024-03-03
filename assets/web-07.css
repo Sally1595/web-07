@@ -1,0 +1,17 @@
+*{/*Selector universal*/
+    margin: 0;
+    padding: 15px;
+}
+body{/*Selector de tipo, elemento, etiqueta */
+        background-color: rgb(112, 161, 233);
+        text-align: center;
+    }
+h1{/*Selecciona todos los elementos p y h1*/
+    color: rgb(9, 9, 196);
+    text-align: center;
+}    
+
+.imagenes{
+    text-align:start;
+}
+
